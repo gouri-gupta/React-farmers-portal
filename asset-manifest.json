@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-farmers-portal/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/React-farmers-portal/static/js/main.dfe3dcde.chunk.js",
-    "main.js.map": "/React-farmers-portal/static/js/main.dfe3dcde.chunk.js.map",
+    "main.js": "/React-farmers-portal/static/js/main.79fa3285.chunk.js",
+    "main.js.map": "/React-farmers-portal/static/js/main.79fa3285.chunk.js.map",
     "runtime-main.js": "/React-farmers-portal/static/js/runtime-main.7f49988e.js",
     "runtime-main.js.map": "/React-farmers-portal/static/js/runtime-main.7f49988e.js.map",
     "static/js/2.9ae461ec.chunk.js": "/React-farmers-portal/static/js/2.9ae461ec.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.7f49988e.js",
     "static/js/2.9ae461ec.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.dfe3dcde.chunk.js"
+    "static/js/main.79fa3285.chunk.js"
   ]
 }
