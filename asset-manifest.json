@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-farmers-portal/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/React-farmers-portal/static/js/main.dfe3dcde.chunk.js",
+    "main.js.map": "/React-farmers-portal/static/js/main.dfe3dcde.chunk.js.map",
+    "runtime-main.js": "/React-farmers-portal/static/js/runtime-main.7f49988e.js",
+    "runtime-main.js.map": "/React-farmers-portal/static/js/runtime-main.7f49988e.js.map",
+    "static/js/2.9ae461ec.chunk.js": "/React-farmers-portal/static/js/2.9ae461ec.chunk.js",
+    "static/js/2.9ae461ec.chunk.js.map": "/React-farmers-portal/static/js/2.9ae461ec.chunk.js.map",
+    "static/js/3.4e42e270.chunk.js": "/React-farmers-portal/static/js/3.4e42e270.chunk.js",
+    "static/js/3.4e42e270.chunk.js.map": "/React-farmers-portal/static/js/3.4e42e270.chunk.js.map",
+    "index.html": "/React-farmers-portal/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/React-farmers-portal/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9ae461ec.chunk.js.LICENSE.txt": "/React-farmers-portal/static/js/2.9ae461ec.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React-farmers-portal/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f49988e.js",
+    "static/js/2.9ae461ec.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.dfe3dcde.chunk.js"
+  ]
+}
